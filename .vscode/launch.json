@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - hello",
+      "request": "launch",
+      "mainClass": "hello",
+      "projectName": "java1_26785351"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - misol",
+      "request": "launch",
+      "mainClass": "misol",
+      "projectName": "java1_26785351"
+    }
+  ]
+}
